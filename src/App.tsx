@@ -1,7 +1,7 @@
 
 
 
-import Calcu from './Calcu.tsx';
+import Calcu from './Calcu'
 
 import './App.css';
 
